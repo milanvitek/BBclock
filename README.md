@@ -1,4 +1,2 @@
-# BBclock
-
-# Check the wiki
+# BBclock -> Check the wiki
 https://github.com/milanvitek/BBclock/wiki
